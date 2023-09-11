@@ -1,0 +1,29 @@
+.main{
+    background-color: rgb(190, 190, 37);
+    background-size: cover;
+    height: 100vh;
+    padding: 15px;
+    }
+    .home{
+        background-color: white;
+        width: 150px;
+        padding: 5px;
+        font-size: 15px;
+        color: blue;
+    
+    }
+    .hp{
+        color: rgb(135, 64, 135);
+        font-weight: bold;
+    }
+    .hpp{
+        background-color: white;
+        padding: 5px;
+        font-size: 15px;
+    }
+    .box1{
+        margin: 10px;
+    }
+    .box2{
+        margin-left: 10px;
+    }

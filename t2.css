@@ -1,0 +1,16 @@
+.head{
+    background-color: rgb(255, 162, 0);
+    color:white;
+    width:400px;
+    padding:5px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.tail{
+    background-color:aqua;
+    color:darkblue;
+    width:400px;
+    padding:5px;
+    margin-bottom: 0px;
+
+}
